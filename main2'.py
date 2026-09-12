@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+weight = float(input("Enter your weight: "))
+favorite_subject = input("Enter your favorite subject: ")
+print("Hello,", name)
+print("You are", age, "years old.")
+print("Your weight is", weight, "kg.")
+print("Your favorite subject is", favorite_subject)
